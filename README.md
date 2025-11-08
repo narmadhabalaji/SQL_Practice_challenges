@@ -38,12 +38,12 @@ Each file represents a different business scenario demonstrating practical datab
 - Features:
   - ALTER, RENAME, TRUNCATE, DROP
 
-### 6. [Sales DataBase](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenges/SQL%20Challenge%20-%20Sales%20DB.sql)
-Focus: Aggregate Functions  
-Features:
-- Calculates **SUM, COUNT, AVG, MIN, MAX**
-- Demonstrates rounding and revenue summarization
-- Useful for understanding business analytics metrics
+### 6. [Sales Database](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenges/SQL%20Challenge%20-%20Sales%20DB.sql)
+**Focus:** Aggregate functions  
+**Features:**  
+- SUM, COUNT, AVG, MIN, MAX  
+- Rounding averages  
+- Revenue summarization  
 
 
 ---
