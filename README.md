@@ -33,10 +33,18 @@ Each file represents a different business scenario demonstrating practical datab
   - Student–Course relationships  
   - Multiple join types  
 
-### 5. [City Hospital Database](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenges/SQL%20Challenge%20-%20City%20Hospital.sql)
+### 5. [City Hospital DataBase](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenges/SQL%20Challenge%20-%20City%20Hospital.sql)
 - Focus: Table modification and schema operations  
 - Features:
-  - ALTER, RENAME, TRUNCATE, DROP  
+  - ALTER, RENAME, TRUNCATE, DROP
+
+### 6. [Sales DataBase](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenges/SQL%20Challenge%20-%20Sales%20DB.sql)
+Focus: Aggregate Functions  
+Features:
+- Calculates **SUM, COUNT, AVG, MIN, MAX**
+- Demonstrates rounding and revenue summarization
+- Useful for understanding business analytics metrics
+
 
 ---
 
