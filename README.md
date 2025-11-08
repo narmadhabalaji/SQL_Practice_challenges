@@ -44,4 +44,22 @@ Each file represents a different business scenario demonstrating practical datab
 - MySQL Workbench 8.0 CE
 - SQL Syntax: DDL, DML, DCL, TCL
 
+---
+
+## 📂 Projects Included
+
+### 1. [Online Bookstore](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenge%20-%20Online%20Bookstore.sql)
+Focus: Triggers, Transactions, and Rollbacks
+
+### 2. [MNC Database](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenge%20-%20MNC%20DB.sql)
+Focus: Joins, Views, Functions, Stored Procedures
+
+### 3. [E-commerce Database](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenge%20-%20E-commerce%20DB.sql)
+Focus: Sorting and Limiting Results
+
+### 4. [University Database](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenge%20-%20University%20DB.sql)
+Focus: Joins, DISTINCT, NULL, and Filtering
+
+### 5. [City Hospital Database](https://github.com/narmadhabalaji/SQL_Practice_challenges/blob/main/SQL%20Challenge%20-%20City%20Hospital.sql)
+Focus: Table Modifications and Schema Operations
 
