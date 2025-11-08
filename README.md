@@ -40,7 +40,7 @@ Each file represents a different business scenario demonstrating practical datab
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 - MySQL Workbench 8.0 CE
 - SQL Syntax: DDL, DML, DCL, TCL
 
